@@ -44,7 +44,7 @@ header nav ul li a {
 
 /* Hero Section */
 .hero {
-    background: url('https://via.placeholder.com/1920x700') center center no-repeat;
+    background: url('header-image.jpg') top center no-repeat;
     background-size: cover;
     height: 700px;
     display: flex;
